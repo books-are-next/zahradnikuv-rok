@@ -9,6 +9,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-11-30T09:21:47.873Z'
   languageCode: cs
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - zahradnikuv_rok_005.html
   - zahradnikuv_rok_006.html
