@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
+  - zahradnikuv_rok_002.html
   - zahradnikuv_rok_005.html
   - zahradnikuv_rok_006.html
   - zahradnikuv_rok_007.html

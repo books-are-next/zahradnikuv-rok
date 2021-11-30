@@ -2,4 +2,4 @@
 title: ''
 ---
 
-![Upoutávka Městské knihovny v Praze](./resources/upoutavka_eknihy.jpg)
+![Zahradníkův rok](./resources/obalka.jpg)
