@@ -6,7 +6,9 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-30T09:21:47.873Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -81,8 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva"
+            "title": "Předmluva",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_006.md",
@@ -92,8 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jak\nse zakládají zahrádky"
+            "title": "Jak\nse zakládají zahrádky",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_007.md",
@@ -103,8 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jak vzniká zahradník"
+            "title": "Jak vzniká zahradník",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_008.md",
@@ -114,8 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův leden"
+            "title": "Zahradníkův leden",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_009.md",
@@ -125,8 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Semínka"
+            "title": "Semínka",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_010.md",
@@ -136,8 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův únor"
+            "title": "Zahradníkův únor",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_011.md",
@@ -147,8 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O umění zahradnickém"
+            "title": "O umění zahradnickém",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_012.md",
@@ -158,8 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův březen"
+            "title": "Zahradníkův březen",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_013.md",
@@ -169,8 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pupence"
+            "title": "Pupence",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_014.md",
@@ -180,8 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův duben"
+            "title": "Zahradníkův duben",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_015.md",
@@ -191,8 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Svátek"
+            "title": "Svátek",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_016.md",
@@ -202,8 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův máj"
+            "title": "Zahradníkův máj",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_017.md",
@@ -213,8 +215,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Požehnaný déšť"
+            "title": "Požehnaný déšť",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_018.md",
@@ -224,8 +226,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův červen"
+            "title": "Zahradníkův červen",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_019.md",
@@ -235,8 +237,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O zelinářích"
+            "title": "O zelinářích",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_020.md",
@@ -246,8 +248,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův červenec"
+            "title": "Zahradníkův červenec",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_021.md",
@@ -257,8 +259,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kapitola botanická"
+            "title": "Kapitola botanická",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_022.md",
@@ -268,8 +270,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův srpen"
+            "title": "Zahradníkův srpen",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_023.md",
@@ -279,8 +281,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O pěstitelích kaktů"
+            "title": "O pěstitelích kaktů",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_024.md",
@@ -290,8 +292,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkovo září"
+            "title": "Zahradníkovo září",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_025.md",
@@ -301,8 +303,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Půda"
+            "title": "Půda",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_026.md",
@@ -312,8 +314,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův říjen"
+            "title": "Zahradníkův říjen",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_027.md",
@@ -323,8 +325,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O krásách podzimu"
+            "title": "O krásách podzimu",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_028.md",
@@ -334,8 +336,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův listopad"
+            "title": "Zahradníkův listopad",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_029.md",
@@ -345,8 +347,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Příprava"
+            "title": "Příprava",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_030.md",
@@ -356,8 +358,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zahradníkův prosinec"
+            "title": "Zahradníkův prosinec",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_031.md",
@@ -367,8 +369,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O životě zahradnickém"
+            "title": "O životě zahradnickém",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_032.md",
@@ -378,8 +380,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční\npoznámka"
+            "title": "Ediční\npoznámka",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_033.md",
@@ -389,8 +391,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Život a doba spisovatele\nKarla Čapka v datech"
+            "title": "Život a doba spisovatele\nKarla Čapka v datech",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_034.md",
@@ -400,8 +402,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První\nvydání knih Karla Čapka"
+            "title": "První\nvydání knih Karla Čapka",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_035.md",
@@ -411,8 +413,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "zahradnikuv_rok_036.md",
@@ -434,7 +436,7 @@
       "identifier": "1e0ed026-965b-4ea6-beec-5b04de906bec",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-30T09:32:50.404Z"
+      "modified": "2021-11-30T09:48:12.127Z"
     },
     "chapters": [
       {
@@ -977,6 +979,6 @@
       "user": "books-are-next",
       "repo": "zahradnikuv-rok"
     },
-    "generatedAt": 1638264770919
+    "generatedAt": 1638265692864
   }
 }
