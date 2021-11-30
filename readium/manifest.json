@@ -1,0 +1,559 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Zahradníkův rok",
+    "identifier": "1e0ed026-965b-4ea6-beec-5b04de906bec",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-11-30T09:21:47.873Z",
+    "Sigil version": "0.9.8"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zahradnikuv_rok_036.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/01.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/02.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/03.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/04.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/05.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/06.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/07.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/08.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/09.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/10.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/11.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/12.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/13.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/14.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/15.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/16.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/17.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/18.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/19.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/20.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/21.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/22.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/23.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/24.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/25.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/26.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/27.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/28.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/29.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/30.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/31.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/32.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/33.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/34.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/35.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/36.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/37.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/38.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/39.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/40.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/41.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/42.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/43.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/44.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/45.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/46.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/47.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/48.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/49.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/50.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/51.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/52.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/53.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/54.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/55.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/56.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/57.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/58.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/59.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/60.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/zahradnikuv_rok_005.html"
+    },
+    {
+      "title": "Jak se zakládají zahrádky",
+      "href": "OEBPS/Text/zahradnikuv_rok_006.html"
+    },
+    {
+      "title": "Jak vzniká zahradník",
+      "href": "OEBPS/Text/zahradnikuv_rok_007.html"
+    },
+    {
+      "title": "Zahradníkův leden",
+      "href": "OEBPS/Text/zahradnikuv_rok_008.html"
+    },
+    {
+      "title": "Semínka",
+      "href": "OEBPS/Text/zahradnikuv_rok_009.html"
+    },
+    {
+      "title": "Zahradníkův únor",
+      "href": "OEBPS/Text/zahradnikuv_rok_010.html"
+    },
+    {
+      "title": "O umění zahradnickém",
+      "href": "OEBPS/Text/zahradnikuv_rok_011.html"
+    },
+    {
+      "title": "Zahradníkův březen",
+      "href": "OEBPS/Text/zahradnikuv_rok_012.html"
+    },
+    {
+      "title": "Pupence",
+      "href": "OEBPS/Text/zahradnikuv_rok_013.html"
+    },
+    {
+      "title": "Zahradníkův duben",
+      "href": "OEBPS/Text/zahradnikuv_rok_014.html"
+    },
+    {
+      "title": "Svátek",
+      "href": "OEBPS/Text/zahradnikuv_rok_015.html"
+    },
+    {
+      "title": "Zahradníkův máj",
+      "href": "OEBPS/Text/zahradnikuv_rok_016.html"
+    },
+    {
+      "title": "Požehnaný déšť",
+      "href": "OEBPS/Text/zahradnikuv_rok_017.html"
+    },
+    {
+      "title": "Zahradníkův červen",
+      "href": "OEBPS/Text/zahradnikuv_rok_018.html"
+    },
+    {
+      "title": "O zelinářích",
+      "href": "OEBPS/Text/zahradnikuv_rok_019.html"
+    },
+    {
+      "title": "Zahradníkův červenec",
+      "href": "OEBPS/Text/zahradnikuv_rok_020.html"
+    },
+    {
+      "title": "Kapitola botanická",
+      "href": "OEBPS/Text/zahradnikuv_rok_021.html"
+    },
+    {
+      "title": "Zahradníkův srpen",
+      "href": "OEBPS/Text/zahradnikuv_rok_022.html"
+    },
+    {
+      "title": "O pěstitelích kaktů",
+      "href": "OEBPS/Text/zahradnikuv_rok_023.html"
+    },
+    {
+      "title": "Zahradníkovo září",
+      "href": "OEBPS/Text/zahradnikuv_rok_024.html"
+    },
+    {
+      "title": "Půda",
+      "href": "OEBPS/Text/zahradnikuv_rok_025.html"
+    },
+    {
+      "title": "Zahradníkův říjen",
+      "href": "OEBPS/Text/zahradnikuv_rok_026.html"
+    },
+    {
+      "title": "O krásách podzimu",
+      "href": "OEBPS/Text/zahradnikuv_rok_027.html"
+    },
+    {
+      "title": "Zahradníkův listopad",
+      "href": "OEBPS/Text/zahradnikuv_rok_028.html"
+    },
+    {
+      "title": "Příprava",
+      "href": "OEBPS/Text/zahradnikuv_rok_029.html"
+    },
+    {
+      "title": "Zahradníkův prosinec",
+      "href": "OEBPS/Text/zahradnikuv_rok_030.html"
+    },
+    {
+      "title": "O životě zahradnickém",
+      "href": "OEBPS/Text/zahradnikuv_rok_031.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/zahradnikuv_rok_032.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/zahradnikuv_rok_033.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/zahradnikuv_rok_034.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/zahradnikuv_rok_035.html"
+    }
+  ]
+}
