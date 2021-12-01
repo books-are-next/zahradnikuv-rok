@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Zahradníkův rok",
@@ -49,7 +50,7 @@
             "filename": "zahradnikuv_rok_002.md",
             "xhtml": "zahradnikuv_rok_002.html",
             "id": 1,
-            "role": "break",
+            "role": "cover",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -982,3 +983,4 @@
     "generatedAt": 1638282955198
   }
 }
+
