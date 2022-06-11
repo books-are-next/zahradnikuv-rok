@@ -1,16 +1,53 @@
 {
-  "author": "Karel Čapek",
-  "edition": "beletrie",
-  "identifier": "capek-zahradnikuv-rok-4985177",
-  "languagecode": "cs",
-  "modified": "2021-11-30T09:21:47.873Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Zahradníkův rok",
-  "revision": "4985177",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-zahradnikuv-rok-43e7dec",
+  "revision": "43e7dec",
+  "readingOrder": [
+    "zahradnikuv_rok_002.html",
+    "zahradnikuv_rok_005.html",
+    "zahradnikuv_rok_006.html",
+    "zahradnikuv_rok_007.html",
+    "zahradnikuv_rok_008.html",
+    "zahradnikuv_rok_009.html",
+    "zahradnikuv_rok_010.html",
+    "zahradnikuv_rok_011.html",
+    "zahradnikuv_rok_012.html",
+    "zahradnikuv_rok_013.html",
+    "zahradnikuv_rok_014.html",
+    "zahradnikuv_rok_015.html",
+    "zahradnikuv_rok_016.html",
+    "zahradnikuv_rok_017.html",
+    "zahradnikuv_rok_018.html",
+    "zahradnikuv_rok_019.html",
+    "zahradnikuv_rok_020.html",
+    "zahradnikuv_rok_021.html",
+    "zahradnikuv_rok_022.html",
+    "zahradnikuv_rok_023.html",
+    "zahradnikuv_rok_024.html",
+    "zahradnikuv_rok_025.html",
+    "zahradnikuv_rok_026.html",
+    "zahradnikuv_rok_027.html",
+    "zahradnikuv_rok_028.html",
+    "zahradnikuv_rok_029.html",
+    "zahradnikuv_rok_030.html",
+    "zahradnikuv_rok_031.html",
+    "zahradnikuv_rok_032.html",
+    "zahradnikuv_rok_033.html",
+    "zahradnikuv_rok_034.html",
+    "zahradnikuv_rok_035.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:06:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396373478
+    "date": "Sat Jun 11 2022 12:14:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949671017
   },
   "documents": [
     {
@@ -34,7 +71,7 @@
       ]
     },
     {
-      "title": "Předmluva • Zahradníkův rok",
+      "title": "Předmluva",
       "file": "zahradnikuv_rok_005.html",
       "words": 141,
       "chars": 931,
@@ -54,7 +91,7 @@
       ]
     },
     {
-      "title": "Jak\nse zakládají zahrádky • Zahradníkův rok",
+      "title": "Jak\nse zakládají zahrádky",
       "file": "zahradnikuv_rok_006.html",
       "words": 612,
       "chars": 3653,
@@ -74,7 +111,7 @@
       ]
     },
     {
-      "title": "Jak vzniká zahradník • Zahradníkův rok",
+      "title": "Jak vzniká zahradník",
       "file": "zahradnikuv_rok_007.html",
       "words": 648,
       "chars": 3899,
@@ -94,7 +131,7 @@
       ]
     },
     {
-      "title": "Zahradníkův leden • Zahradníkův rok",
+      "title": "Zahradníkův leden",
       "file": "zahradnikuv_rok_008.html",
       "words": 970,
       "chars": 5899,
@@ -114,7 +151,7 @@
       ]
     },
     {
-      "title": "Semínka • Zahradníkův rok",
+      "title": "Semínka",
       "file": "zahradnikuv_rok_009.html",
       "words": 657,
       "chars": 3896,
@@ -134,7 +171,7 @@
       ]
     },
     {
-      "title": "Zahradníkův únor • Zahradníkův rok",
+      "title": "Zahradníkův únor",
       "file": "zahradnikuv_rok_010.html",
       "words": 797,
       "chars": 4933,
@@ -154,7 +191,7 @@
       ]
     },
     {
-      "title": "O umění zahradnickém • Zahradníkův rok",
+      "title": "O umění zahradnickém",
       "file": "zahradnikuv_rok_011.html",
       "words": 752,
       "chars": 4640,
@@ -174,7 +211,7 @@
       ]
     },
     {
-      "title": "Zahradníkův březen • Zahradníkův rok",
+      "title": "Zahradníkův březen",
       "file": "zahradnikuv_rok_012.html",
       "words": 881,
       "chars": 5392,
@@ -194,7 +231,7 @@
       ]
     },
     {
-      "title": "Pupence • Zahradníkův rok",
+      "title": "Pupence",
       "file": "zahradnikuv_rok_013.html",
       "words": 515,
       "chars": 3236,
@@ -214,7 +251,7 @@
       ]
     },
     {
-      "title": "Zahradníkův duben • Zahradníkův rok",
+      "title": "Zahradníkův duben",
       "file": "zahradnikuv_rok_014.html",
       "words": 948,
       "chars": 5579,
@@ -234,7 +271,7 @@
       ]
     },
     {
-      "title": "Svátek • Zahradníkův rok",
+      "title": "Svátek",
       "file": "zahradnikuv_rok_015.html",
       "words": 642,
       "chars": 3768,
@@ -254,7 +291,7 @@
       ]
     },
     {
-      "title": "Zahradníkův máj • Zahradníkův rok",
+      "title": "Zahradníkův máj",
       "file": "zahradnikuv_rok_016.html",
       "words": 1143,
       "chars": 6976,
@@ -274,7 +311,7 @@
       ]
     },
     {
-      "title": "Požehnaný déšť • Zahradníkův rok",
+      "title": "Požehnaný déšť",
       "file": "zahradnikuv_rok_017.html",
       "words": 561,
       "chars": 3346,
@@ -294,7 +331,7 @@
       ]
     },
     {
-      "title": "Zahradníkův červen • Zahradníkův rok",
+      "title": "Zahradníkův červen",
       "file": "zahradnikuv_rok_018.html",
       "words": 1112,
       "chars": 6525,
@@ -314,7 +351,7 @@
       ]
     },
     {
-      "title": "O zelinářích • Zahradníkův rok",
+      "title": "O zelinářích",
       "file": "zahradnikuv_rok_019.html",
       "words": 466,
       "chars": 2870,
@@ -334,7 +371,7 @@
       ]
     },
     {
-      "title": "Zahradníkův červenec • Zahradníkův rok",
+      "title": "Zahradníkův červenec",
       "file": "zahradnikuv_rok_020.html",
       "words": 928,
       "chars": 5681,
@@ -354,7 +391,7 @@
       ]
     },
     {
-      "title": "Kapitola botanická • Zahradníkův rok",
+      "title": "Kapitola botanická",
       "file": "zahradnikuv_rok_021.html",
       "words": 588,
       "chars": 3914,
@@ -374,7 +411,7 @@
       ]
     },
     {
-      "title": "Zahradníkův srpen • Zahradníkův rok",
+      "title": "Zahradníkův srpen",
       "file": "zahradnikuv_rok_022.html",
       "words": 1147,
       "chars": 6638,
@@ -394,7 +431,7 @@
       ]
     },
     {
-      "title": "O pěstitelích kaktů • Zahradníkův rok",
+      "title": "O pěstitelích kaktů",
       "file": "zahradnikuv_rok_023.html",
       "words": 574,
       "chars": 3729,
@@ -414,7 +451,7 @@
       ]
     },
     {
-      "title": "Zahradníkovo září • Zahradníkův rok",
+      "title": "Zahradníkovo září",
       "file": "zahradnikuv_rok_024.html",
       "words": 864,
       "chars": 5235,
@@ -434,7 +471,7 @@
       ]
     },
     {
-      "title": "Půda • Zahradníkův rok",
+      "title": "Půda",
       "file": "zahradnikuv_rok_025.html",
       "words": 654,
       "chars": 3765,
@@ -454,7 +491,7 @@
       ]
     },
     {
-      "title": "Zahradníkův říjen • Zahradníkův rok",
+      "title": "Zahradníkův říjen",
       "file": "zahradnikuv_rok_026.html",
       "words": 997,
       "chars": 6293,
@@ -474,7 +511,7 @@
       ]
     },
     {
-      "title": "O krásách podzimu • Zahradníkův rok",
+      "title": "O krásách podzimu",
       "file": "zahradnikuv_rok_027.html",
       "words": 520,
       "chars": 3163,
@@ -494,7 +531,7 @@
       ]
     },
     {
-      "title": "Zahradníkův listopad • Zahradníkův rok",
+      "title": "Zahradníkův listopad",
       "file": "zahradnikuv_rok_028.html",
       "words": 1005,
       "chars": 5960,
@@ -514,7 +551,7 @@
       ]
     },
     {
-      "title": "Příprava • Zahradníkův rok",
+      "title": "Příprava",
       "file": "zahradnikuv_rok_029.html",
       "words": 701,
       "chars": 4104,
@@ -534,7 +571,7 @@
       ]
     },
     {
-      "title": "Zahradníkův prosinec • Zahradníkův rok",
+      "title": "Zahradníkův prosinec",
       "file": "zahradnikuv_rok_030.html",
       "words": 1105,
       "chars": 6623,
@@ -554,7 +591,7 @@
       ]
     },
     {
-      "title": "O životě zahradnickém • Zahradníkův rok",
+      "title": "O životě zahradnickém",
       "file": "zahradnikuv_rok_031.html",
       "words": 646,
       "chars": 3895,
@@ -574,7 +611,7 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Zahradníkův rok",
+      "title": "Ediční\npoznámka",
       "file": "zahradnikuv_rok_032.html",
       "words": 77,
       "chars": 605,
@@ -594,7 +631,7 @@
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech • Zahradníkův rok",
+      "title": "Život a doba spisovatele\nKarla Čapka v datech",
       "file": "zahradnikuv_rok_033.html",
       "words": 293,
       "chars": 2025,
@@ -614,7 +651,7 @@
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka • Zahradníkův rok",
+      "title": "První\nvydání knih Karla Čapka",
       "file": "zahradnikuv_rok_034.html",
       "words": 233,
       "chars": 1154,
@@ -634,7 +671,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Zahradníkův rok",
+      "title": "Poznámky pod čarou",
       "file": "zahradnikuv_rok_035.html",
       "words": 163,
       "chars": 1048,
@@ -654,7 +691,7 @@
       ]
     },
     {
-      "title": "Tiráž • Zahradníkův rok",
+      "title": "Tiráž",
       "file": "colophon.html",
       "words": 137,
       "chars": 921,
