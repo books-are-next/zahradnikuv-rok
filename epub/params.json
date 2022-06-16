@@ -9,7 +9,8 @@
       "modified": "2021-11-30T09:21:47.873Z",
       "languageCode": "cs",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -983,4 +984,3 @@
     "generatedAt": 1638282955198
   }
 }
-
