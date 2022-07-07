@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-zahradnikuv-rok-6fc1cfc",
-  "revision": "6fc1cfc",
+  "identifier": "capek-zahradnikuv-rok-b2ca236",
+  "revision": "b2ca236",
   "readingOrder": [
     "zahradnikuv_rok_002.html",
     "zahradnikuv_rok_005.html",
@@ -46,8 +46,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980439471
+    "date": "Thu Jul 07 2022 08:43:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183383518
   },
   "documents": [
     {
@@ -104,7 +104,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak\nse zakládají zahrádky",
+          "name": "Jak\nse zakládají zahrádky",
           "id": null,
           "children": []
         }
@@ -644,7 +644,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele\nKarla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -696,8 +696,8 @@
       "words": 137,
       "chars": 921,
       "ideas": 24,
-      "role": "colophon",
-      "order": null,
+      "role": "chapter",
+      "order": 32,
       "prev": "zahradnikuv_rok_035.html",
       "next": null,
       "toc": [
@@ -718,9 +718,9 @@
       "ideas": 514
     },
     "chapters": {
-      "words": 21340,
-      "chars": 129375,
-      "ideas": 486
+      "words": 21477,
+      "chars": 130296,
+      "ideas": 510
     }
   }
 }
