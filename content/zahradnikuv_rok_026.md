@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův říjen
+contentType: prose
 ---
+
+<section>
 
 Ono se řekne říjen; ono se řekne, že příroda se ukládá k spánku; zahradník to ví líp a poví vám, že říjen je stejně dobrý měsíc jako duben. Abyste věděli, říjen je první jarní měsíc, měsíc podzemního rašení a klíčení, skrytého rozpuku, nalévajících se pupenů; jen trochu hrábněte do půdy, a najdete nadělaných puků, tlustých jako palec, a křehkých klíčků a dychtivého kořání – nic platno, _jaro je tady_, i vyjdi ven, zahradníče, a sázej (jen pozor, abys nepřekrojil rýčem rašící cibulku narcisu).
 
@@ -27,3 +30,45 @@ Proč by ty kulty neměly mít své Životy svatých? Dejme tomu představte si 
 Takový podzim je přeúrodná doba; proti němu je jaro, abych tak řekl, drobet titěrné; podzim pracuje rád ve velkém měřítku. Stane se vám někdy, že by vám jarní fialinka narostla do tří metrů výšky nebo tulipán rostl a rostl, až by vám přerostl stromy? Tak vidíte; ale zato se vám přihodí, že si zjara zasadíte nějaký ten podzimní aster, a do října se vám z toho udělá dvoumetrový prales, do kterého se neodvážíte vkročit, protože byste už nenašli cestu ven; nebo vložíte v dubnu do půdy kořínek helenia nebo slunokvětu, a teď na vás jaksi ironicky kývají shůry zlaté květy, na které už nedosáhnete rukou, ani když se postavíte na špičky. To se přihází zahradníkovi co chvíli, že se trochu dostane z měřítka. Proto na podzim se provádí stěhování kytek; každého roku přenáší zahradník své perenky jako kočka koťata; každého roku si s uspokojením řekne: Tak, teď to mám všechno osázeno a v pořádku. Příštího roku si zas tak oddychne. Zahrádka není nikdy hotova. V tom směru je zahrádka podobna lidskému světu a všemu lidskému podnikání.
 
 ![51](./resources/51.jpg)
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

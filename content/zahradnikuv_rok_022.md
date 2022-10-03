@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův srpen
+contentType: prose
 ---
+
+<section>
 
 Srpen je obyčejně doba, kdy domácí zahradník opouští svou zahradu divů a _jede na dovolenou_. Po celý rok sice důrazně hlásal, že letos nepojede nikam, že taková zahrádka je nad každý letní byt a že on, zahradník, není takový blázen a trumbera, aby se někde plahočil ve vlaku a po všech čertech; nicméně když uhodí letní doba, prchá i on z města, buď že v něm propukl stěhovavý pud, nebo kvůli sousedům, aby se neřeklo. Odjíždí ovšem s těžkým srdcem, pln obav a starostí o svou zahrádku; a neodjede, dokud nenajde nějakého přítele nebo příbuzného, kterému na ten čas svou zahrádku svěří.
 
@@ -41,3 +44,45 @@ Copak květiny z přírody, ty už zahradní fanatik nějak vyrýpe z půdy, aby
 Kdyby to nějak šlo, udělat smlouvu s čertem, který by zahradníkovi splnil každé přání, prodal by mu zahradník svou duši; ale ten chudák čert, jářku, by tu duši zatraceně draho zaplatil. „Chlape mizerná,“ řekl by konečně, „nežli bych se musel takhle dřít, táhni raději do nebe – beztoho jinam nepatříš.“ A švihaje zlostně ocasem, až by jím zurážel květy řimbaby a zápleváku, šel by po svém a nechal by zahradníka i s jeho neskromnými a nevyčerpatelnými žádostmi.
 
 Vězte, že mluvím o zahradníkovi zahradním, a ne o těch sadařích a košťálnících. Ať si sadař září nad svými jablíčky a hruškami, ať se raduje košťálník z nadživotní velikosti svých kedluben, turků a celerů; pravý zahradník cítí ve všech kostech, že srpen, to už je taková doba obratu. Co kvete, to už honem hledí odkvétat; teď ještě přijde doba podzimních aster a chryzantém, a potom dobrou noc! Ale, ale, ještě ty, zářící floxe, kytičko farská, ty, zlatý starčku a zlatobýle, zlatá rudbekie, zlaté harpalium, zlatý slunokvěte, ještě vy a já, ještě se nedáme, kdepak! Po celý rok je jaro a po celý život je mládí; pořád je z čeho kvést. To se jen tak říká, že je podzim; my zatím rozkvétáme jiným květem, rosteme pod zemí, zakládáme na nové výhonky; pořád je co dělat. Jen ti, kdo mají ruce v kapsách, říkají, že se to obrací k horšímu; ale kdo kvete a nese plod, i kdyby to bylo v listopadu, neví nic o podzimu, nýbrž o zlatém létě; neví nic o úpadku, ale o rašení. Podzimní astro, drahý člověče, rok je tak dlouhý, že ani konce nemá.
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

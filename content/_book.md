@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Zahradníkův rok
@@ -11,8 +12,9 @@ meta:
   languageCode: cs
   edition: beletrie
   publisherShort: mkp
+  contentType: prose
 readingOrder:
-  - zahradnikuv_rok_002.html
+  - promo.html
   - zahradnikuv_rok_005.html
   - zahradnikuv_rok_006.html
   - zahradnikuv_rok_007.html
@@ -44,7 +46,7 @@ readingOrder:
   - zahradnikuv_rok_033.html
   - zahradnikuv_rok_034.html
   - zahradnikuv_rok_035.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
@@ -158,5 +160,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

@@ -1,10 +1,11 @@
 ---
-title: |-
-  Jak
-  se zakládají zahrádky
+title: Jak se zakládají zahrádky
+contentType: prose
 ---
 
-Zahrádky je možno zakládati několikerým způsobem; nejlepší je ten, že se na to vezme zahradník. Zahradník vám tam nasází všelijaké hůlky, proutí a košťátka, o kterých tvrdí, že jsou to javory, hlohy, bezy, vysokokmeny, polokmeny a jiné přírodní druhy; potom se ryje v hlíně, zobrací ji naruby a zase ji uplácá, udělá ze škvárů cestičky, nastrká tu a tam do země jakési zvadlé lupení, o němž prohlašuje, že to jsou pereny[\[1\]](./resources/undefined), naseje na příští trávník semínko, jež nazývá anglickým jílkem a psinečkem, psárkou, poháňkou a bojínkem, a potom odejde, nechávaje za sebou zahrádku hnědou a holou, jako byla dne prvého o stvoření světa; jen vám klade na srdce, abyste tu všechnu hlínu země denně pečlivě kropili, a až vzejde tráva, abyste si nechali přivézt na cestičky písek. Nu dobře.
+<section>
+
+Zahrádky je možno zakládati několikerým způsobem; nejlepší je ten, že se na to vezme zahradník. Zahradník vám tam nasází všelijaké hůlky, proutí a košťátka, o kterých tvrdí, že jsou to javory, hlohy, bezy, vysokokmeny, polokmeny a jiné přírodní druhy; potom se ryje v hlíně, zobrací ji naruby a zase ji uplácá, udělá ze škvárů cestičky, nastrká tu a tam do země jakési zvadlé lupení, o němž prohlašuje, že to jsou pereny[^1], naseje na příští trávník semínko, jež nazývá anglickým jílkem a psinečkem, psárkou, poháňkou a bojínkem, a potom odejde, nechávaje za sebou zahrádku hnědou a holou, jako byla dne prvého o stvoření světa; jen vám klade na srdce, abyste tu všechnu hlínu země denně pečlivě kropili, a až vzejde tráva, abyste si nechali přivézt na cestičky písek. Nu dobře.
 
 ![01](./resources/01.jpg)  
 
@@ -21,3 +22,45 @@ Tvůj poměr k věcem se změnil. Prší-li, pravíš, že prší na zahrádku; 
 Jednoho dne otevřeš oči, a zahrádka bude zelená, vysoká tráva se bude třpytit rosou a v houští růžových korunek budou vyhlížet nabobtnalá, brunátná poupata; a stromy zestarají, budou rozložité a temné, těžkých korun a plné trouchnivé vůně ve vlhkém stínu. A ty už nevzpomeneš na útlou, holou, hnědou zahrádku těchto dnů, na nejisté chmýří první travičky, na hubený rozpuk prvních pupenců, na všechnu tu hlinitou, chudou a dojemnou krásu zahrádky, jež je zakládána.
 
 Nu dobře, ale nyní je nutno kropit a plet a vybírat z hlíny kamení.
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

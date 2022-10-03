@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův červen
+contentType: prose
 ---
+
+<section>
 
 Červen je hlavní doba senoseče; ale pokud jde o nás, městské zahrádkáře, nepředstavujte si, prosím, že jednoho rosného jitra naklepeme kosu a pak s rozhalenou košilí, mohutnými rozmachy kosíme jiskřící trávu, až to sviští, zpívajíce přitom lidové písně. Věc vypadá poněkud jinak. Předně my zahradníci chceme mít anglický pažit, zelený jako kulečník a hustý jako koberec, pažit dokonalý, trávník bez poskvrny, drn jako samet, loučku jako stůl. Nuže, zjara shledáme, že tento anglický pažit pozůstává z jakýchsi lysin, pampelišek, jetele, hlíny, mechu a několika tvrdých a zažloutlých trsů trávy. Musí se to předně vyplet; tu tedy usedáme na bobek a vytahujeme z pažitu veškeru neřádnou plevel, nechávajíce za sebou půdu pustou, zdusanou a tak holou, jako by na ní tančili zedníci nebo stádo zeber. Pak se to zaleje a nechá se to na slunci rozpukat; načež se rozhodneme, že se to musí přece jen posekat.
 
@@ -49,3 +52,45 @@ Kdyby to bylo něco platno, padl by zahradník denně na kolena a modlil by se a
 ![32](./resources/32.jpg)  
 
 Ale když už jsem řekl slovo „mšice“, měl bych dodat, že zrovna v červnu se mají mšice hubit. Jsou na to všelijaké prášky, preparáty, tinktury, extrakty, odvary a smrady, arzen, tabák, šmír a jiné jedy, které zahradník jeden po druhém zkouší, jakmile shledá, že se mu na růžičkách povážlivě rozmnožují zelené, kypře nacucané mšice. Užíváte-li těchto prostředků s jistou opatrností a v náležité míře, shledáte, že vaše růže někdy přežijí toto hubení mšic bez úrazu, až na to, že se tím jaksi spálí list i poupata; co se týče mšic, prospívají během tohoto hubení neobyčejnou měrou, takže pokryjí větvičky růží jako husté krumplování. Potom je lze – s hlasitými projevy ošklivosti – větévku po větévce rozmačkávat. Tímto způsobem tedy se hubí mšice; ale zahradník čpí ještě dlouho potom tabákovým výtažkem a šmírem.
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův červenec
+contentType: prose
 ---
+
+<section>
 
 Podle kanonického práva zahradníků se v červenci _očkují růže_. Dělá se to obyčejně takto: připraví se šípek, pláně neboli podložka, na kterou se má očkovat; dále veliké množství lýka a posléze zahradnický nůž neboli žabka. Když je vše pohotově, vyzkouší zahradník ostří žabky na bříšku palce; je-li žabka dostatečně ostrá, zařízne do palce a nechá v něm rozchlípenou a krvácející tlamičku. Ta se potom ováže několika metry fáče, z čehož vznikne na prstě dosti velké a plné poupě. To se jmenuje očkování růží. Není-li po ruce šípek, lze si výše popsaný zářez do palce přivodit při jiné příležitosti, jako je dělání odprutců, odřezávání vlků nebo odkvetlých stvolů, stříhání keřů a podobně.
 
@@ -47,3 +50,45 @@ Růže a floxy, helenium a coreopsis, denivka, mečík, zvonky a oměj a oman a 
 Hleďte, tyhle květiny, ono to je opravdu jako ženské: tak krásné a svěží, oči bys na tom nechal, a nikdy se nedohledíš té krásy, něco ti vždycky ujde, bože, když ona každá krása je taková neúkojná; ale jakmile to začne odkvétat, tu já nevím, tak nějak si přestanou dávat na sobě záležet (já mluvím o květinách), a kdyby chtěl být člověk hrubý, řekl by, že vypadají jako cumploch. Jaká škoda, má líbezná krásko (já mluvím o květinách), jaká škoda, že tak míjí čas; krása přechází a jen zahradník trvá.
 
 Zahradníkův podzim se začíná už v březnu: první odkvetlou sněženkou.
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův duben
+contentType: prose
 ---
+
+<section>
 
 Duben, to je ten pravý a požehnaný měsíc zahradníkův. Ať si jdou do háje milenci se svým velebením máje; v máji stromy a květiny jenom kvetou, ale v dubnu _vyrážejí_; vězte, že toto klíčení a rašení, ty puky, pupence a klíčky jsou největším divem přírody, a víc už o nich neprozradím ani slovo; seďte sami na bobku a hrabejte sami prstem v kypré zemi, se zatajeným dechem, neboť řečený prst se dotýká křehkého a plného puku. To nelze líčit, tak jako nelze slovy líčit polibky a několik málo jiných věcí.
 
@@ -31,3 +34,45 @@ To se rozumí, koukat dovede každý. „Jej, to je pěkná lila kytička,“ ř
 „To je Burmeester van Tholle,“ řekne vám zahradník potěšen, „a tahle je Madame Claire Mordier,“ a přitom si o vás s uznáním pomyslí, že jste slušný a vzdělaný člověk. A nehazardujte sami se jmény; neříkejte například „Tady vám kvete fajn Arabis“, když na vás může pak zahradník rozlíceně zahřímat: „Kdepak, to _přece_ je Schievereckia Bornmülleri!!“ Ono to je sice skoro jedno, ale jméno je jméno; a my zahradníci držíme na dobré jméno. Proto také nenávidíme děti a kosy, protože nám vytahují a popletou zapíchané jmenovky; pak se nám stane, že ukazujeme s podivem: „Koukejte, tady ten čilimník kvete docela jako protěž, – to je snad taková lokální variace; a je to určitě čilimník, protože je u něho má vlastní jmenovka.“
 
 ![21](./resources/21.jpg)
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._

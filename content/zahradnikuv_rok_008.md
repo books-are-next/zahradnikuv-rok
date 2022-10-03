@@ -1,6 +1,9 @@
 ---
 title: Zahradníkův leden
+contentType: prose
 ---
+
+<section>
 
 „Ani leden není pro zahradníka dobou nečinnosti,“ říkají zahradnické příručky. Zajisté nikoliv; neboť v lednu zahradník hlavně
 
@@ -14,7 +17,7 @@ Nejhůř je zahradníkovi, když nastanou holomrazy. Tehdy země ztuhne a vyschn
 
 ![02](./resources/02.jpg)  
 
-Jsou různé lsti, jak lze vyzrát na počasí a způsobit jeho změnu. Například jakmile se rozhodnu obléknout to nejteplejší, co na sebe mám, nastane pravidelně oteplení. Obleva rovněž nastává, smluví-li se několik přátel, že pojedou na hory lyžařit. I tehdy, když někdo napíše do novin článek, ve kterém popisuje panující mrazy, zdravě omrzlé tváře, rej na kluzištích a jiné takové úkazy, dostavuje se obleva právě ve chvíli, kdy se ten článek sází v sazárně, takže jej lidé čtou, zatímco venku už zase vlažně prší a teploměr ukazuje osm nad nulou; i řekne ovšem čtenář, že v novinách je samá lež a podfuk; dejte nám s novinami pokoj. Naproti tomu sakrování, nářky, zaklínání, potahování, říkání „brrr“ a jiné inkantace[\[3\]](./resources/undefined) na počasí vlivu nemají.
+Jsou různé lsti, jak lze vyzrát na počasí a způsobit jeho změnu. Například jakmile se rozhodnu obléknout to nejteplejší, co na sebe mám, nastane pravidelně oteplení. Obleva rovněž nastává, smluví-li se několik přátel, že pojedou na hory lyžařit. I tehdy, když někdo napíše do novin článek, ve kterém popisuje panující mrazy, zdravě omrzlé tváře, rej na kluzištích a jiné takové úkazy, dostavuje se obleva právě ve chvíli, kdy se ten článek sází v sazárně, takže jej lidé čtou, zatímco venku už zase vlažně prší a teploměr ukazuje osm nad nulou; i řekne ovšem čtenář, že v novinách je samá lež a podfuk; dejte nám s novinami pokoj. Naproti tomu sakrování, nářky, zaklínání, potahování, říkání „brrr“ a jiné inkantace[^3] na počasí vlivu nemají.
 
 ![03](./resources/03.jpg)  
 
@@ -37,3 +40,45 @@ A tedy čekat, čekat! Pane na nebi, jak je ten leden dlouhý! Jen kdyby už byl
 A zatím, aniž měl o tom tušení nebo aniž se o to nějak přičinil, mu vyrazily na zahrádce krokusy a sněženky.
 
 ![04](./resources/04.jpg)
+
+</section>
+
+[^1]: Trvalky. _Pozn. red._
+
+[^2]: Odnož. _Pozn. red._
+
+[^3]: Pověrečné zaříkávání. _Pozn. red._
+
+[^4]: Hněv opěvuj, bohyně. _Pozn. red._
+
+[^5]: Kyselá slatinná zemina, rašelina. _Pozn. red._
+
+[^6]: Rašeliník. _Pozn. red._
+
+[^7]: Krondaro/kromdar – lejno. _Pozn. red._
+
+[^8]: Shawl (angl.) – pléd, přehoz. _Pozn. red._
+
+[^9]: Pochodové tempo. _Pozn. red._
+
+[^10]: Odnož, řízek. _Pozn. red._
+
+[^11]: Pontus euxinus – lat. název pro severní pobřeží Černého moře. _Pozn. red_.
+
+[^12]: Zvyková pravidla. _Pozn. red._
+
+[^13]: Kněžská pokrývka hlavy. _Pozn. red._
+
+[^14]: Sečná i bodná orientální zbraň se zahnutou čepelí. _Pozn. red._
+
+[^15]: Kybelé – v řec. mytologii maloasijská bohyně uctívaná jako „velká matka bohů a všeho živého“. _Pozn. red._
+
+[^16]: Hromadný nástup. _Pozn. red._
+
+[^17]: Lámavá, křehká. _Pozn. red._
+
+[^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._
+
+[^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._
+
+[^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._
