@@ -31,7 +31,7 @@ V MKP 2. opravené vydání
 [^18]: Arne Novák (1880–1939), literární kritik a historik. _Pozn. red._  
 [^19]: Zdeněk Nejedlý (1878–1962), historik, muzikolog, umělecký kritik, politik, později ministr školství (ve funkci v letech 1945–1946, 1948–1953). _Pozn. red._  
 [^20]: Rojnice, z. něm. Schwarmlinie, tj. rozmístění bojové jednotky v řadě. _Pozn. red._  
-V MKP 1. elektronické vydání z 4. 10. 2022.
+V MKP 1. elektronické vydání z 7. 10. 2022.
 
 ***
 
