@@ -8,10 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-zahradnikuv-rok-71e640b",
-  "revision": "71e640b",
+  "identifier": "capek-zahradnikuv-rok-adf2dbc",
+  "revision": "adf2dbc",
   "readingOrder": [
-    "zahradnikuv_rok_002.html",
+    "promo.html",
     "zahradnikuv_rok_005.html",
     "zahradnikuv_rok_006.html",
     "zahradnikuv_rok_007.html",
@@ -43,16 +43,16 @@
     "zahradnikuv_rok_033.html",
     "zahradnikuv_rok_034.html",
     "zahradnikuv_rok_035.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:08:26 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640506981
+    "date": "Fri Oct 21 2022 11:48:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352882041
   },
   "documents": [
     {
-      "title": "Zahradníkův rok",
-      "file": "zahradnikuv_rok_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -60,15 +60,7 @@
       "order": 0,
       "prev": null,
       "next": "zahradnikuv_rok_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Předmluva",
@@ -78,7 +70,7 @@
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "zahradnikuv_rok_002.html",
+      "prev": "promo.html",
       "next": "zahradnikuv_rok_006.html",
       "toc": [
         {
@@ -91,10 +83,10 @@
       ]
     },
     {
-      "title": "Jak\nse zakládají zahrádky",
+      "title": "Jak se zakládají zahrádky",
       "file": "zahradnikuv_rok_006.html",
-      "words": 612,
-      "chars": 3653,
+      "words": 616,
+      "chars": 3674,
       "ideas": 11,
       "role": "chapter",
       "order": 2,
@@ -104,7 +96,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak\nse zakládají zahrádky",
+          "name": "Jak se zakládají zahrádky",
           "id": null,
           "children": []
         }
@@ -113,9 +105,9 @@
     {
       "title": "Jak vzniká zahradník",
       "file": "zahradnikuv_rok_007.html",
-      "words": 648,
-      "chars": 3899,
-      "ideas": 7,
+      "words": 652,
+      "chars": 3917,
+      "ideas": 8,
       "role": "chapter",
       "order": 3,
       "prev": "zahradnikuv_rok_006.html",
@@ -133,9 +125,9 @@
     {
       "title": "Zahradníkův leden",
       "file": "zahradnikuv_rok_008.html",
-      "words": 970,
-      "chars": 5899,
-      "ideas": 19,
+      "words": 975,
+      "chars": 5932,
+      "ideas": 20,
       "role": "chapter",
       "order": 4,
       "prev": "zahradnikuv_rok_007.html",
@@ -173,9 +165,9 @@
     {
       "title": "Zahradníkův únor",
       "file": "zahradnikuv_rok_010.html",
-      "words": 797,
-      "chars": 4933,
-      "ideas": 15,
+      "words": 808,
+      "chars": 5000,
+      "ideas": 17,
       "role": "chapter",
       "order": 6,
       "prev": "zahradnikuv_rok_009.html",
@@ -193,9 +185,9 @@
     {
       "title": "O umění zahradnickém",
       "file": "zahradnikuv_rok_011.html",
-      "words": 752,
-      "chars": 4640,
-      "ideas": 12,
+      "words": 758,
+      "chars": 4677,
+      "ideas": 13,
       "role": "chapter",
       "order": 7,
       "prev": "zahradnikuv_rok_010.html",
@@ -213,9 +205,9 @@
     {
       "title": "Zahradníkův březen",
       "file": "zahradnikuv_rok_012.html",
-      "words": 881,
-      "chars": 5392,
-      "ideas": 15,
+      "words": 889,
+      "chars": 5433,
+      "ideas": 16,
       "role": "chapter",
       "order": 8,
       "prev": "zahradnikuv_rok_011.html",
@@ -233,9 +225,9 @@
     {
       "title": "Pupence",
       "file": "zahradnikuv_rok_013.html",
-      "words": 515,
-      "chars": 3236,
-      "ideas": 5,
+      "words": 520,
+      "chars": 3264,
+      "ideas": 6,
       "role": "chapter",
       "order": 9,
       "prev": "zahradnikuv_rok_012.html",
@@ -293,9 +285,9 @@
     {
       "title": "Zahradníkův máj",
       "file": "zahradnikuv_rok_016.html",
-      "words": 1143,
-      "chars": 6976,
-      "ideas": 34,
+      "words": 1148,
+      "chars": 7000,
+      "ideas": 35,
       "role": "chapter",
       "order": 12,
       "prev": "zahradnikuv_rok_015.html",
@@ -393,9 +385,9 @@
     {
       "title": "Kapitola botanická",
       "file": "zahradnikuv_rok_021.html",
-      "words": 588,
-      "chars": 3914,
-      "ideas": 11,
+      "words": 601,
+      "chars": 3986,
+      "ideas": 12,
       "role": "chapter",
       "order": 17,
       "prev": "zahradnikuv_rok_020.html",
@@ -433,9 +425,9 @@
     {
       "title": "O pěstitelích kaktů",
       "file": "zahradnikuv_rok_023.html",
-      "words": 574,
-      "chars": 3729,
-      "ideas": 4,
+      "words": 579,
+      "chars": 3757,
+      "ideas": 5,
       "role": "chapter",
       "order": 19,
       "prev": "zahradnikuv_rok_022.html",
@@ -453,9 +445,9 @@
     {
       "title": "Zahradníkovo září",
       "file": "zahradnikuv_rok_024.html",
-      "words": 864,
-      "chars": 5235,
-      "ideas": 12,
+      "words": 882,
+      "chars": 5339,
+      "ideas": 13,
       "role": "chapter",
       "order": 20,
       "prev": "zahradnikuv_rok_023.html",
@@ -513,9 +505,9 @@
     {
       "title": "O krásách podzimu",
       "file": "zahradnikuv_rok_027.html",
-      "words": 520,
-      "chars": 3163,
-      "ideas": 10,
+      "words": 525,
+      "chars": 3190,
+      "ideas": 11,
       "role": "chapter",
       "order": 23,
       "prev": "zahradnikuv_rok_026.html",
@@ -533,9 +525,9 @@
     {
       "title": "Zahradníkův listopad",
       "file": "zahradnikuv_rok_028.html",
-      "words": 1005,
-      "chars": 5960,
-      "ideas": 15,
+      "words": 1040,
+      "chars": 6202,
+      "ideas": 18,
       "role": "chapter",
       "order": 24,
       "prev": "zahradnikuv_rok_027.html",
@@ -553,9 +545,9 @@
     {
       "title": "Příprava",
       "file": "zahradnikuv_rok_029.html",
-      "words": 701,
-      "chars": 4104,
-      "ideas": 5,
+      "words": 714,
+      "chars": 4184,
+      "ideas": 6,
       "role": "chapter",
       "order": 25,
       "prev": "zahradnikuv_rok_028.html",
@@ -611,11 +603,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka",
+      "title": "Ediční poznámka",
       "file": "zahradnikuv_rok_032.html",
       "words": 77,
-      "chars": 605,
-      "ideas": 5,
+      "chars": 606,
+      "ideas": 4,
       "role": "chapter",
       "order": 28,
       "prev": "zahradnikuv_rok_031.html",
@@ -624,18 +616,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "zahradnikuv_rok_033.html",
       "words": 293,
-      "chars": 2025,
-      "ideas": 32,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 29,
       "prev": "zahradnikuv_rok_032.html",
@@ -644,18 +636,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka",
+      "title": "První vydání knih Karla Čapka",
       "file": "zahradnikuv_rok_034.html",
       "words": 233,
-      "chars": 1154,
-      "ideas": 68,
+      "chars": 1155,
+      "ideas": 67,
       "role": "chapter",
       "order": 30,
       "prev": "zahradnikuv_rok_033.html",
@@ -664,7 +656,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Karla Čapka",
+          "name": "První vydání knih Karla Čapka",
           "id": null,
           "children": []
         }
@@ -673,13 +665,13 @@
     {
       "title": "Poznámky pod čarou",
       "file": "zahradnikuv_rok_035.html",
-      "words": 163,
-      "chars": 1048,
-      "ideas": 21,
+      "words": 323,
+      "chars": 2007,
+      "ideas": 41,
       "role": "chapter",
       "order": 31,
       "prev": "zahradnikuv_rok_034.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -692,12 +684,12 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 137,
-      "chars": 921,
-      "ideas": 24,
-      "role": "chapter",
-      "order": 32,
+      "file": "about.html",
+      "words": 118,
+      "chars": 826,
+      "ideas": 13,
+      "role": "about",
+      "order": null,
       "prev": "zahradnikuv_rok_035.html",
       "next": null,
       "toc": [
@@ -713,14 +705,14 @@
   ],
   "totals": {
     "all": {
-      "words": 21483,
-      "chars": 130333,
-      "ideas": 514
+      "words": 21761,
+      "chars": 132022,
+      "ideas": 536
     },
     "chapters": {
-      "words": 21477,
-      "chars": 130296,
-      "ideas": 510
+      "words": 21637,
+      "chars": 131159,
+      "ideas": 519
     }
   }
 }
